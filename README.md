@@ -1,38 +1,36 @@
-# 🚀 Learning Machine Learning (0 → 100 Days)
+#  Learning Machine Learning (0 → 100 Days)
 
 > A structured journey to master **Machine Learning from scratch to advanced level**
-> 📅 Covering concepts, implementations, and real-world projects
+>  Covering concepts, implementations, and real-world projects
 
 ---
 
-## 📌 About This Repository
+##  About This Repository
 
 This repository documents my **100-day journey of learning Machine Learning** from basics to advanced concepts.
 
 It includes:
-
-* 📘 Theory + Notes
-* 🧠 Hands-on Notebooks
-* 📊 Datasets for practice
-* 🔍 Exploratory Data Analysis (EDA)
-* 🤖 Model building & evaluation
+*  Hands-on Notebooks
+*  Datasets for practice
+*  Exploratory Data Analysis (EDA)
+*  Model building & evaluation
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
-📦 Learning-Machine-learning-
- ┣ 📂 Notebooks       # Jupyter notebooks (day-wise learning)
- ┣ 📂 dataset         # Datasets used for practice
- ┣ 📜 README.md       # Project documentation
+ Learning-Machine-learning-
+ ┣  Notebooks       # Jupyter notebooks (day-wise learning)
+ ┣  dataset         # Datasets used for practice
+ ┣  README.md       # Project documentation
 ```
 
 ---
 
-## 🛤️ Learning Roadmap (Day-wise Plan)
+## 🛤️Learning Roadmap (Day-wise Plan)
 
-### 🔰 Phase 1: Python & Basics (Day 1–15)
+###  Phase 1: Python & Basics (Day 1–15)
 
 * Python basics (lists, dicts, loops)
 * NumPy & Pandas
@@ -41,7 +39,7 @@ It includes:
 
 ---
 
-### 📊 Phase 2: Statistics & Math (Day 16–30)
+###  Phase 2: Statistics & Math (Day 16–30)
 
 * Mean, Median, Mode
 * Probability basics
@@ -50,7 +48,7 @@ It includes:
 
 ---
 
-### 🤖 Phase 3: Machine Learning Basics (Day 31–60)
+###  Phase 3: Machine Learning Basics (Day 31–60)
 
 * Supervised vs Unsupervised Learning
 * Linear Regression
@@ -60,7 +58,7 @@ It includes:
 
 ---
 
-### ⚙️ Phase 4: Advanced ML (Day 61–85)
+###  Phase 4: Advanced ML (Day 61–85)
 
 * Random Forest
 * Support Vector Machine (SVM)
@@ -70,7 +68,7 @@ It includes:
 
 ---
 
-### 🚀 Phase 5: Projects & Real-World (Day 86–100)
+###  Phase 5: Projects & Real-World (Day 86–100)
 
 * End-to-end ML projects
 * Model deployment basics
@@ -79,14 +77,14 @@ It includes:
 
 ---
 
-## 📒 Notebooks
+##  Notebooks
 
 Each notebook contains:
 
-* ✅ Concept explanation
-* ✅ Code implementation
-* ✅ Visualization
-* ✅ Results & insights
+*  Concept explanation
+*  Code implementation
+*  Visualization
+*  Results & insights
 
 ---
 
@@ -100,9 +98,9 @@ Datasets used in this repo are stored in the `dataset/` folder and include:
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
-* Python 🐍
+* Python 
 * NumPy
 * Pandas
 * Matplotlib & Seaborn
@@ -110,7 +108,7 @@ Datasets used in this repo are stored in the `dataset/` folder and include:
 
 ---
 
-## 🎯 Goal
+##  Goal
 
 By the end of this journey, I aim to:
 
@@ -125,28 +123,28 @@ By the end of this journey, I aim to:
 
 | Day Range  | Status        |
 | ---------- | ------------- |
-| Day 1–15   | ✅ Completed   |
-| Day 16–30  | ⏳ In Progress |
-| Day 31–100 | 🔜 Upcoming   |
+| Day 1–15   |  Completed   |
+| Day 16–30  |  In Progress |
+| Day 31–100 |  Upcoming   |
 
 ---
 
-## 🤝 Contribution
+##  Contribution
 
 This is a personal learning project, but suggestions and improvements are welcome!
 
 ---
 
-## ⭐ Support
+##  Support
 
-If you find this repository helpful, consider giving it a ⭐
+If you find this repository helpful, consider giving it a 
 
 ---
 
-## 📬 Connect
+##  Connect
 
 Feel free to connect or reach out for collaboration!
 
 ---
 
-> 💡 *"Consistency beats intensity — 100 days of learning can change everything."*
+>  *"Consistency beats intensity — 100 days of learning can change everything."*
